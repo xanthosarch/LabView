@@ -1,0 +1,1 @@
+#python script for converting cv-measurement files from labview binary format into ascii
